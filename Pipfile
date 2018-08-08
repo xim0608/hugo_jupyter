@@ -3,7 +3,6 @@ url = "https://pypi.python.org/simple"
 verify_ssl = true
 
 [packages]
-
 docopt = "*"
 "fabric3" = "*"
 watchdog = "*"
@@ -11,9 +10,9 @@ jupyter = "*"
 colorama = "*"
 "jupyter-contrib-nbextensions" = "*"
 crayons = "*"
+"html5lib" = "==1.0.1"
 
 [dev-packages]
-
 bumpversion = "==0.5.3"
 coverage = "==4.4.1"
 cryptography = "==1.9"
